@@ -1,0 +1,6 @@
+.vscode-test/**
+test/**
+.yarnrc
+**/*.map
+**/.eslintrc.json
+node_modules
